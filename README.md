@@ -1,12 +1,12 @@
 # My-COVID19-Dashboard
 
-Project Name
+# Project Name
 
 
 Covid19 consolidated data (jan 2020 - june 2022)
 
 
-The data contains: 
+# The data contains: 
 
 
 Confirmed Cases
@@ -14,7 +14,7 @@ Death Cases
 Recovered cases
 
 
-Project Objective
+# Project Objective
 
 
 1. To detect which countres had the highest cummuulative confirmed cases since january 2020
@@ -26,7 +26,7 @@ Project Objective
 
 
 
-Data Sourcing
+# Data Sourcing
 
 
 The raw data was sourced from 
@@ -36,14 +36,14 @@ https://aka.ms/30DLCOVID19GitHubData
 
 
 
-Data Cleaning
+# Data Cleaning
 
 
 The data was cleaned on Microsoft excel, using power query it was merged, together to form a single table with confirmed, recovered and death columns
 
 
 
-Findings
+# Findings
 
 
 New covid19 cases are still being recorded
@@ -55,7 +55,7 @@ Brazil has the highest recovered cases of Covid19.
 
 
 
-Recommendations
+# Recommendations
 
 
 i would recommend continous sanitary and preventive measures to be taken lke the use of facemask, hand washing, sneezing into the arm while in publc and the collection of the covid vaccine which is very important.
